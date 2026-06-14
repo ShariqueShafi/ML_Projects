@@ -10,6 +10,6 @@ Data cleaning and preprocessing were performed. Logistic Regression and multiple
 Certain treatments and length of stay significantly impact the total hospital cost. The logistic regression model helps in predicting high-cost patients.
 
 ## Repository Structure
-- Code scripts (R/Python)
+- Code scripts (R/Python/.ipynb)
 - Datasets (CSV/Excel)
-- PDF Reports
+- Problem Statements/Reports (PDF/HTML)

@@ -10,6 +10,6 @@ Exploratory Data Analysis (EDA) was performed, followed by correlation analysis.
 Smoking status was found to be the most significant predictor of medical insurance charges. The final multiple linear regression model explains approximately 74% of the variance in insurance charges.
 
 ## Repository Structure
-- Code scripts (R/Python)
+- Code scripts (R/Python/.ipynb)
 - Datasets (CSV/Excel)
-- PDF Reports
+- Problem Statements/Reports (PDF/HTML)

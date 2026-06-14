@@ -10,6 +10,6 @@ Association Rule Mining (Apriori algorithm) was used to find frequent itemsets a
 Strong associations were found between certain product categories. These rules can be directly used for cross-selling and product placement in stores.
 
 ## Repository Structure
-- Code scripts (R/Python)
+- Code scripts (R/Python/.ipynb)
 - Datasets (CSV/Excel)
-- PDF Reports
+- Problem Statements/Reports (PDF/HTML)

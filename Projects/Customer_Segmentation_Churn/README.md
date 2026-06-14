@@ -10,6 +10,6 @@ RFM (Recency, Frequency, Monetary) analysis was conducted. K-Means clustering wa
 Customers were successfully segmented into high-value, at-risk, and churned groups. The K-Means clusters helped in tailoring targeted marketing strategies.
 
 ## Repository Structure
-- Code scripts (R/Python)
+- Code scripts (R/Python/.ipynb)
 - Datasets (CSV/Excel)
-- PDF Reports
+- Problem Statements/Reports (PDF/HTML)
