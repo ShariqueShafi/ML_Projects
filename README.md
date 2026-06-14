@@ -29,3 +29,4 @@ Below you will find a list of projects, each accompanied by its problem statemen
 If you are interested in discussing any of these projects or potential opportunities, feel free to reach out.
 
 *(Note: More projects will be added as they are completed!)*
+# ML-Projects
