@@ -1,4 +1,4 @@
-# ML Projects Portfolio
+# ML Projects
 
 Welcome to my Machine Learning and Data Science Projects repository! This repository contains a collection of projects demonstrating my skills in data analysis, statistical modeling, machine learning, and text mining. 
 
